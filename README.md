@@ -12,3 +12,5 @@ https://sarahwylie.github.io/run-buddy/
 
 ##  Contribution
 Made with :heart: and :cold_sweat: by Sarah Wylie
+
+### ©️2019 Run Buddy, Inc
