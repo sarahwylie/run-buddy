@@ -12,16 +12,18 @@ body {
     }
 
 /* apply styles to <header> */
-header {
-    padding: 20px 35px;
-    background-color: #39a6b2;
-}
-header h1 {
+.buddy {
     font-weight: bold;
     font-size: 36px;
     color: #fce138;
     margin: 0;
     display: inline;
+}
+.habits {
+    color: #fce138;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 70px;
 }
 header a {
     text-decoration: none;
@@ -41,7 +43,6 @@ header nav ul li a {
 }
 
 /* styling the hero */
-/* hero style start */
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
