@@ -14,14 +14,16 @@ body {
 
 /* apply styles to <header> */
 header {
-    background-image: url("../images/hero-bg.jpg");
-    font-weight: bold;
-    font-size: 36px;
-    color: #fce138;
-    margin: 0;
+    padding: 20px 35px;
+    background-color: #39a6b2;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-image: url("../images/hero-bg.jpg");
+    background-size: cover;
     background-attachment: fixed;
     background-position: 80%;
 }
@@ -294,22 +296,13 @@ section {
     margin-bottom: 15px;
     margin-top: 5px;
     border-radius: 10px;
-}
-#contact-name, #contact-message {
     background-color: rgba(255,255,255, 0.75);
-    color: #024e76;
 }
-#contact-name:focus,#contact-message:focus  {
+
+.contact-form input:focus, .contact-form textarea:focus  {
     background-color: rgba(255,255,255, 1);
     outline: none;
 }
-/* #contact-message {
-    background-color: rgba(255,255,255, 0.75);
-}
-#contact-message:focus {
-    background-color: rgba(255,255,255, 1);
-    outline: none;
-} */
 .contact-form button {
     width: 100%;
     border: none;
