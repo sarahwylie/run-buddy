@@ -8,9 +8,6 @@ A website that offers fitness training services.
 *CSS
 
 ## Website
-https://run-buddy.sarahwylie.com/
-
-## Git profile
 https://sarahwylie.github.io/run-buddy/
 
 ##  Contribution
