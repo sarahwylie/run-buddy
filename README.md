@@ -9,6 +9,7 @@ A website that offers fitness training services.
 
 ## Website
 https://sarahwylie.github.io/run-buddy/
+**Please note that this is a sample site built for learning purposes
 
 ##  Contribution
 Made with :heart: and :cold_sweat: by Sarah Wylie
